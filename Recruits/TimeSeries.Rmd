@@ -1,0 +1,13 @@
+---
+title: "RTPM_FRED_Models"
+author: "Prav"
+date: "23 Sep 2017"
+output: html_document
+---
+
+```{r fig.width=16, fig.height=10,echo = TRUE,warnings = TRUE,message = TRUE}
+
+source("./Models/loadPackages.R")
+
+```
+

@@ -1,0 +1,17 @@
+---
+title: "Santander Modeling"
+author: "Author - Prav"
+date:   "Date   - 2018-08-12"
+output: html_document
+---
+require("rJava")
+# Load Setup file
+# rm(list=ls())
+
+```{r ,message=TRUE, warning=FALSE, include=TRUE, echo=TRUE}
+
+setwd("C:/Users/SriPrav/Documents/R/53Santander")
+getwd()
+source('./Models/Prav_Santander_Model05.R')
+```
+

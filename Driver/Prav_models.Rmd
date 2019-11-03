@@ -1,0 +1,12 @@
+---
+title: "Prav_Models"
+author: "Prav"
+date: "10 Oct 2017"
+output: html_document
+---
+
+```{r fig.width=16, fig.height=10,echo = TRUE,warnings = TRUE,message = TRUE}
+source("./models/slot_model_funcs_2.R")
+
+```
+

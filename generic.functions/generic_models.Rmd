@@ -1,0 +1,12 @@
+---
+title: "slot_Models"
+author: "Prav"
+date: "23 July 2017"
+output: html_document
+---
+
+```{r fig.width=16, fig.height=10,echo = TRUE,warnings = TRUE,message = TRUE}
+source("./device_slot_models/slot_model_funcs_2.R")
+
+```
+
